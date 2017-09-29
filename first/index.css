@@ -1,0 +1,25 @@
+header {
+  background: #404040;
+  height: 10vh;
+  width: 100vw;
+}
+
+body {
+  background: lightgrey;
+  padding: 0px;
+  margin: 0px;
+}
+
+section {
+  background: #fff;
+  height: 80vh;
+  width: 80vw;
+  margin: auto;
+}
+
+footer {
+  background: black;
+  height: 10vh;
+  width: 80vw;
+  margin: auto;
+}

@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.a {
+  height: 15vh;
+  background: #D8D8D8;
+}
+
+.a1 {
+  margin-left: 30px;
+  margin-right: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 85px;
+  background: #4990E2;
+  width: 85px;
+}
+
+.b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+  background: white;
+}
+
+.b div {
+  margin: 10%;
+}
+
+.c {
+  height: 15vh;
+  background: #4990E2;
+}
+
+.d {
+  height: 15vh;
+  background: #4FE3C1;
+}
+
+.e {
+  height: 15vh;
+  background: #B9E888;
+}
+
+.f {
+  height: 15vh;
+  background: #F8E71E;
+}
